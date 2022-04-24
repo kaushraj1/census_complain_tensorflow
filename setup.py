@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="census-consumer-complaint",
+    name="census-consumer-complaint_tensorjs_kaushal_gupta",
     license="MIT",
-    version="0.0.7",
+    version="0.0.1",
     description="Project has been completed.",
-    author="Avnish Yadav",
+    author="kaushal",
     packages=find_packages(),
     install_requires=['tfx==1.6.1', 'apache-beam[interactive]', 'apache-airflow']
 )
