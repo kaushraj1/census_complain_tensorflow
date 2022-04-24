@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="census-consumer-complaint_tensorjs_kaushal_gupta",
+    name="census-consumer-complaint-ineuron",
     license="MIT",
     version="0.0.1",
     description="Project has been completed.",
